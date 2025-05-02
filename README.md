@@ -23,7 +23,7 @@ MindMate is a modern AI chat assistant built with React and powered by the Gemin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Suryansh0910/mindmate.git
+git clone https://github.com/Suryansh0910/Mindmate.git
 cd mindmate
 ```
 
